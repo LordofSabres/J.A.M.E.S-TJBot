@@ -1,3 +1,9 @@
+# Meet J.A.M.E.S. The Jovial Autism Machine Exploring Sarcasm
+In 2021, the CDC reported that 1 in 44 children in the United States have Autism Spectrum Disorder (ASD). Psychology Today had an article stating that kids with autism have trouble with understanding colloquial phrases such as sarcasm, due to how they use language literally, but also have trouble with recognizing tone of voice and are not as exposed to colloquialisms like most people. In the long run, this can be problematic in social situations and relationships with others. After learning about the potential of artificial intelligence, I created an IBM TJBot and modified it to listen into conversations and light up certain colors to note sarcasm or genuine emotions detected in these statements using IBM Watson's services such as Text-to-Speech, Speech-to-Text, Tone Analyzer, and the Watson Assistant, developing a machine learning model for it.
+
+# Link to paper
+https://docs.google.com/document/d/1MTOD-v-edHhye1H4ZUaE2VE-LeeDbMx8r7ZbJSrW7l0/edit?usp=sharing
+
 # IBM TJBot
 <img src="images/tjbot.jpg" width="85%">
 
